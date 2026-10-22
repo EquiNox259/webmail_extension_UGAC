@@ -12,7 +12,7 @@ SECRET_KEY = os.environ.get(
 DEBUG = os.environ.get("DJANGO_DEBUG", "False") == "True"
 
 DEFAULT_ALLOWED_HOSTS = (
-    "webmailextensionugac-260151192882.asia-south1.run.app,localhost,127.0.0.1"
+    "https://webmail-extension-ugac-255781157096.asia-south1.run.app,localhost,127.0.0.1"
 )
 ALLOWED_HOSTS = [
     item.strip()
