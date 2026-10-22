@@ -31,10 +31,10 @@
     "https://www.googleapis.com/*",
     "http://127.0.0.1:8000/*",
     "http://localhost:8000/*",
-    "https://webmailextensionugac-260151192882.asia-south1.run.app/api/daily-summary/",
-    "https://webmailextensionugac-260151192882.asia-south1.run.app/api/gemini-proxy/",
-    "https://webmailextensionugac-260151192882.asia-south1.run.app/api/mail-window/",
-    "https://webmailextensionugac-260151192882.asia-south1.run.app/api/extract-pdf/"
+    "https://webmail-extension-ugac-255781157096.asia-south1.run.app/api/daily-summary/",
+    "https://webmail-extension-ugac-255781157096.asia-south1.run.app/api/gemini-proxy/",
+    "https://webmail-extension-ugac-255781157096.asia-south1.run.app/api/mail-window/",
+    "https://webmail-extension-ugac-255781157096.asia-south1.run.app/api/extract-pdf/"
   ],
   "background": {
     "service_worker": "background.js"

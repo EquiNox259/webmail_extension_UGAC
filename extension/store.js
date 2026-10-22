@@ -5,7 +5,7 @@ const MAIL_WINDOW_EMAILS = "emails";
 const MAIL_WINDOW_META = "meta";
 const MAIL_WINDOW_META_KEY = "window";
 const MAIL_WINDOW_SYNC_GAP_MS = 5 * 60 * 1000;
-const MAIL_WINDOW_BACKEND_BASE = "https://webmailextensionugac-260151192882.asia-south1.run.app";
+const MAIL_WINDOW_BACKEND_BASE = "https://webmail-extension-ugac-255781157096.asia-south1.run.app";
 const MAIL_WINDOW_LOCAL_CANDIDATES = ["http://127.0.0.1:8000", "http://localhost:8000"];
 
 // Gemini sometimes answers with LaTeX even when told not to. Convert the
